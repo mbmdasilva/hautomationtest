@@ -1,0 +1,5 @@
+rootProject.name = 'hautomationtest'
+include 'hex'
+include 'hpay'
+include 'htests'
+
